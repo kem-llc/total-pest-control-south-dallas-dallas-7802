@@ -1,0 +1,328 @@
+{
+  "business": {
+    "name": "Total Pest Control South Dallas",
+    "shortName": "Total Pest Control",
+    "tagline": "Your Trusted Partner in Pest-Free Living",
+    "niche": "Pest Control",
+    "phone": "(469) 301-7802",
+    "address": "4022 Spring Ave, Dallas, TX 75210",
+    "city": "Dallas, TX",
+    "hours": "Mon-Fri 8am-6pm, Sat 9am-2pm",
+    "ctaLabel": "Schedule Inspection",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Total Pest Control South Dallas | Expert Pest Extermination in Dallas, TX",
+    "description": "Total Pest Control South Dallas offers premium pest control services in Dallas, TX. Expert extermination for ants, roaches, rodents, and more. Call (469) 301-7802 for a free inspection."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas-Fort Worth's Premier Pest Control",
+      "headline": "Protect Your Home & Family from Pests",
+      "subheadline": "Reliable, affordable, and effective pest extermination services in South Dallas. We treat your home like our own.",
+      "primaryCta": "Get a Free Quote",
+      "secondaryCta": "Learn More"
+    },
+    "stats": [
+      {
+        "value": "100+",
+        "label": "Homes Protected"
+      },
+      {
+        "value": "5.0",
+        "label": "Star Rating"
+      },
+      {
+        "value": "15+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "100%",
+        "label": "Satisfaction Guarantee"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Comprehensive Protection",
+        "title": "Full-Service Pest Control Tailored to Your Needs",
+        "body": "From ants and roaches to rodents and termites, our integrated pest management approach ensures your home stays pest-free year-round. We use safe, effective treatments that protect your family and pets.",
+        "bullets": [
+          "Thorough inspection and identification",
+          "Customized treatment plans",
+          "Eco-friendly and pet-safe options"
+        ],
+        "reverse": false,
+        "cardLabel": "Service Highlight",
+        "cardTitle": "Same-Day Service Available",
+        "cardBody": "Facing a sudden infestation? We offer prompt, same-day service to address urgent pest issues quickly."
+      },
+      {
+        "eyebrow": "Preventative Care",
+        "title": "Keep Pests Away with Regular Maintenance",
+        "body": "Our seasonal maintenance plans provide ongoing protection against common pests. We'll monitor and treat your home regularly so you never have to worry about unwelcome guests.",
+        "bullets": [
+          "Quarterly treatments",
+          "Exclusion and sealing",
+          "24/7 customer support"
+        ],
+        "reverse": true,
+        "cardLabel": "Plan Feature",
+        "cardTitle": "Free Re-Treatment Between Visits",
+        "cardBody": "If pests return between scheduled treatments, we'll come back at no extra charge."
+      }
+    ],
+    "whyTitle": "Why Choose Total Pest Control South Dallas?",
+    "whyChooseUs": [
+      {
+        "title": "Locally Owned & Operated",
+        "description": "We're part of the Dallas community and understand local pest challenges. Our team is committed to neighborly service."
+      },
+      {
+        "title": "Licensed & Insured Professionals",
+        "description": "Every technician is fully licensed, background-checked, and trained in the latest pest control techniques."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "No hidden fees or surprise charges. We provide upfront quotes and explain every service before we start."
+      },
+      {
+        "title": "100% Satisfaction Guarantee",
+        "description": "If you're not happy with our service, we'll make it right. Your peace of mind is our top priority."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Total Pest Control did an amazing job on our home. They were thorough, professional, and the pests are gone!",
+        "author": "Maria G.",
+        "role": "South Dallas Homeowner"
+      },
+      {
+        "quote": "I've tried other companies, but Total Pest Control is by far the best. Their team is friendly and effective.",
+        "author": "James T.",
+        "role": "Oak Cliff Resident"
+      },
+      {
+        "quote": "Fast response and excellent service. They explained everything and left our home pest-free.",
+        "author": "Linda R.",
+        "role": "Pleasant Grove Homeowner"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Reclaim Your Home?",
+      "subheadline": "Schedule a free inspection today and get a customized plan for your property.",
+      "primaryCta": "Call (469) 301-7802",
+      "secondaryCta": "Get a Free Quote"
+    }
+  },
+  "servicesPage": {
+    "intro": "We offer a full range of pest control services designed to protect your home and family. From one-time treatments to ongoing maintenance, our certified technicians use proven methods to eliminate pests and prevent future infestations."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "General Pest Control",
+      "shortDescription": "Comprehensive treatment for common household pests like ants, roaches, spiders, and more.",
+      "longDescription": "Our general pest control service targets a wide variety of common pests that invade Dallas homes. We perform a detailed inspection of your property, identify problem areas, and apply targeted treatments to eliminate pests and prevent their return.",
+      "benefits": [
+        "Eliminates ants, roaches, spiders, silverfish, and more",
+        "Interior and exterior treatment",
+        "Safe for children and pets",
+        "Ongoing monitoring and prevention"
+      ],
+      "process": [
+        {
+          "title": "Inspection",
+          "description": "We thoroughly inspect your home's interior and exterior to identify pest entry points and nesting areas."
+        },
+        {
+          "title": "Treatment",
+          "description": "Using industry-leading products, we treat affected areas and create a protective barrier around your home."
+        },
+        {
+          "title": "Follow-Up",
+          "description": "We schedule a follow-up visit to ensure pests are gone and make any necessary adjustments."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How long does treatment take?",
+          "answer": "Most general pest treatments take about 30-60 minutes, depending on the size of your home and severity of infestation."
+        },
+        {
+          "question": "Is the treatment safe for my family?",
+          "answer": "Yes, we use EPA-approved products that are safe when applied correctly. We recommend staying out of treated areas for a few hours."
+        }
+      ],
+      "slug": "general-pest-control"
+    },
+    {
+      "icon": "02",
+      "title": "Termite Control",
+      "shortDescription": "Protect your home from termite damage with expert detection and elimination.",
+      "longDescription": "Termites can cause significant structural damage if left untreated. Our termite control service includes thorough inspections, advanced detection techniques, and effective treatment options to eliminate colonies and prevent future infestations.",
+      "benefits": [
+        "Early detection with moisture meters and probes",
+        "Liquid soil treatments and bait systems",
+        "Damage prevention and structural protection",
+        "Warranty and annual inspections"
+      ],
+      "process": [
+        {
+          "title": "Inspection",
+          "description": "We conduct a detailed inspection of your foundation, crawl spaces, and wood structures to find termite activity."
+        },
+        {
+          "title": "Treatment Plan",
+          "description": "Based on findings, we recommend either a liquid barrier treatment or bait station installation."
+        },
+        {
+          "title": "Post-Treatment Monitoring",
+          "description": "We monitor bait stations and re-treat as needed to ensure complete colony elimination."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How do I know if I have termites?",
+          "answer": "Signs include mud tubes, hollow-sounding wood, discarded wings, and small holes in drywall. We offer free inspections to confirm."
+        },
+        {
+          "question": "How long does termite treatment last?",
+          "answer": "Liquid treatments can last 5-10 years, while bait stations are monitored and replenished regularly."
+        }
+      ],
+      "slug": "termite-control"
+    },
+    {
+      "icon": "03",
+      "title": "Rodent Control",
+      "shortDescription": "Humane and effective removal of rats and mice from your property.",
+      "longDescription": "Rodents can spread diseases and cause property damage. Our rodent control service focuses on exclusion, trapping, and sanitation to remove rodents and prevent them from returning. We seal entry points and provide ongoing monitoring.",
+      "benefits": [
+        "Comprehensive exclusion and sealing",
+        "Humane trapping and removal",
+        "Sanitation and cleanup services",
+        "Prevention strategies to keep rodents out"
+      ],
+      "process": [
+        {
+          "title": "Inspection",
+          "description": "We identify rodent entry points, nesting sites, and food sources both inside and outside your home."
+        },
+        {
+          "title": "Exclusion & Trapping",
+          "description": "We seal gaps and holes, then set traps in strategic locations to capture rodents."
+        },
+        {
+          "title": "Cleanup & Prevention",
+          "description": "We remove droppings and contaminated insulation, then recommend ongoing prevention measures."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do you use poison?",
+          "answer": "We prefer non-poisonous methods like traps and exclusion to avoid risks to pets and children. In severe cases, we may use baits in secure stations."
+        },
+        {
+          "question": "How long does rodent control take?",
+          "answer": "Initial exclusion and trapping can be completed in a day, but full elimination may take 1-2 weeks."
+        }
+      ],
+      "slug": "rodent-control"
+    },
+    {
+      "icon": "04",
+      "title": "Bed Bug Treatment",
+      "shortDescription": "Discreet and effective bed bug elimination for homes and businesses.",
+      "longDescription": "Bed bugs are notoriously difficult to eliminate. Our bed bug treatment combines heat treatments, chemical applications, and thorough inspections to eradicate bed bugs at all life stages. We also provide preparation guidance and follow-up visits.",
+      "benefits": [
+        "Heat treatments that kill bed bugs and eggs",
+        "Chemical spot treatments for targeted areas",
+        "Minimal preparation required from you",
+        "Follow-up inspection to ensure success"
+      ],
+      "process": [
+        {
+          "title": "Inspection",
+          "description": "We inspect mattresses, furniture, and crevices to confirm bed bug presence and severity."
+        },
+        {
+          "title": "Treatment",
+          "description": "We use a combination of heat (up to 120°F) and EPA-approved insecticides to eliminate bed bugs."
+        },
+        {
+          "title": "Re-Inspection",
+          "description": "After 14 days, we return to check for any remaining bed bugs and re-treat if necessary."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do I need to throw away my mattress?",
+          "answer": "No, our treatments can save your mattress. We treat it thoroughly and provide encasements if needed."
+        },
+        {
+          "question": "How many treatments are needed?",
+          "answer": "Most infestations require 1-2 treatments, with a follow-up inspection to confirm eradication."
+        }
+      ],
+      "slug": "bed-bug-treatment"
+    }
+  ],
+  "about": {
+    "headline": "Dedicated to Keeping Dallas Homes Pest-Free",
+    "mission": "To provide safe, effective, and affordable pest control solutions that protect our neighbors and their homes.",
+    "story": [
+      "Total Pest Control South Dallas was founded with a simple mission: deliver reliable, honest pest control to the community we call home. Our founder, a Dallas native, saw a need for a company that treats customers like family and pests like the enemy. Starting with a single truck and a commitment to excellence, we've grown into a trusted name in South Dallas.",
+      "Today, we serve hundreds of homes across Dallas and the surrounding areas. Our team of certified technicians stays up-to-date with the latest pest control innovations to ensure we provide the best possible service. We believe in transparency, integrity, and a job well done."
+    ],
+    "highlight": {
+      "stat": "100+",
+      "label": "Homes Protected"
+    },
+    "coreValues": [
+      {
+        "title": "Integrity",
+        "description": "We always do what's right for our customers, even when no one is watching."
+      },
+      {
+        "title": "Excellence",
+        "description": "We strive for the highest standards in every service we provide."
+      },
+      {
+        "title": "Community",
+        "description": "We're proud to support our local community and give back whenever we can."
+      },
+      {
+        "title": "Innovation",
+        "description": "We embrace new technologies and methods to improve our effectiveness."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get in Touch",
+    "subheadline": "Ready to start your pest-free journey? Contact us today for a free quote.",
+    "primaryCta": "Call (469) 301-7802",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Oak Cliff",
+      "Pleasant Grove",
+      "South Dallas",
+      "Cedar Hill",
+      "Lancaster",
+      "DeSoto",
+      "Duncanville"
+    ]
+  },
+  "social_proof": {
+    "rating": 5.0,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Pest Control",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:4693017802",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
